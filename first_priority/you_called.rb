@@ -1,4 +1,4 @@
-require_relative 'that_was'
+require_relative 
 
 super_mario_party
 
