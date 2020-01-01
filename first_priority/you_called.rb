@@ -1,4 +1,4 @@
-require
+require_relative ''
 
 super_mario_party
 
