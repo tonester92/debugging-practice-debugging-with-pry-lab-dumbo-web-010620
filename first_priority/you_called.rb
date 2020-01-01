@@ -1,4 +1,4 @@
-
+require
 
 super_mario_party
 
